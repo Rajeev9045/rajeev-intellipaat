@@ -1,6 +1,0 @@
-first file
-
-second file also
-
-third function
-new funciton
