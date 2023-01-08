@@ -1,3 +1,5 @@
 first file
 
 second file also
+
+third function
